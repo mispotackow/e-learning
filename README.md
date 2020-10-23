@@ -16,3 +16,13 @@ This project has implemented:
 • Install and configure Memcached   
 • Cache content using the Django cache framework    
 • Monitor Memcached using the django-memcache-status    
+• Install Django REST framework     
+• Create serializers for models     
+• Build a RESTful API   
+• Create nested serializers     
+• Build custom API views    
+• Handle API authentication     
+• Add permissions to API views  
+• Create a custom permission    
+• Implement viewsets and routers    
+• Use the Requests library to consume the API   
