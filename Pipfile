@@ -12,6 +12,8 @@ python-memcached = "*"
 django-memcache-status = "*"
 djangorestframework = "*"
 requests = "*"
+channels = "*"
+channels-redis = "*"
 
 [dev-packages]
 

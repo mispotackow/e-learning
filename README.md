@@ -26,3 +26,8 @@ This project has implemented:
 • Create a custom permission    
 • Implement viewsets and routers    
 • Use the Requests library to consume the API   
+• Add Channels  
+• Build a WebSocket consumer and appropriate routing    
+• Implement a WebSocket client  
+• Enable a channel layer with Redis     
+• Make consumer fully asynchronous  

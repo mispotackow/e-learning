@@ -26,7 +26,6 @@ class StudentRegistrationView(CreateView):
 class StudentEnrollCourseView(LoginRequiredMixin, FormView):
     course = None
     form_class = CourseEnrollForm
-    template_name = 'students/course/detail.html'
 
     def form_valid(self, form):
         self.course = form.cleaned_data['course']
