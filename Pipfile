@@ -14,6 +14,9 @@ djangorestframework = "*"
 requests = "*"
 channels = "*"
 channels-redis = "*"
+psycopg2-binary = "*"
+uwsgi = "*"
+daphne = "*"
 
 [dev-packages]
 

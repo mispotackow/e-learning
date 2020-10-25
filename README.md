@@ -31,3 +31,6 @@ This project has implemented:
 • Implement a WebSocket client  
 • Enable a channel layer with Redis     
 • Make consumer fully asynchronous  
+• Configuring a production environment  
+• Creating a custom middleware  
+• Implementing custom management commands   
